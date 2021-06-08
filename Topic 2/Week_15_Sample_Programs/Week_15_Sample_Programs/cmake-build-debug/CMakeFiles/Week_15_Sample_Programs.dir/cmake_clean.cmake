@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/Week_15_Sample_Programs.dir/AssignObjectDemo.cpp.obj"
+  "CMakeFiles/Week_15_Sample_Programs.dir/Budget_Version_1/Pr14-2.cpp.obj"
+  "CMakeFiles/Week_15_Sample_Programs.dir/Budget_Version_2/Budget.cpp.obj"
+  "CMakeFiles/Week_15_Sample_Programs.dir/Budget_Version_2/Pr14-3.cpp.obj"
+  "CMakeFiles/Week_15_Sample_Programs.dir/Budget_Version_3/Auxil.cpp.obj"
+  "CMakeFiles/Week_15_Sample_Programs.dir/Budget_Version_3/Budget.cpp.obj"
+  "CMakeFiles/Week_15_Sample_Programs.dir/Budget_Version_3/Pr14-4.cpp.obj"
+  "CMakeFiles/Week_15_Sample_Programs.dir/FeetInches_Version_1/FeetInches.cpp.obj"
+  "CMakeFiles/Week_15_Sample_Programs.dir/FeetInches_Version_1/Pr14-8.cpp.obj"
+  "CMakeFiles/Week_15_Sample_Programs.dir/FeetInches_Version_2/FeetInches.cpp.obj"
+  "CMakeFiles/Week_15_Sample_Programs.dir/FeetInches_Version_2/Pr14-9.cpp.obj"
+  "CMakeFiles/Week_15_Sample_Programs.dir/FeetInches_Version_3/FeetInches.cpp.obj"
+  "CMakeFiles/Week_15_Sample_Programs.dir/FeetInches_Version_3/Pr14-10.cpp.obj"
+  "CMakeFiles/Week_15_Sample_Programs.dir/FeetInches_Version_4/FeetInches.cpp.obj"
+  "CMakeFiles/Week_15_Sample_Programs.dir/FeetInches_Version_4/Pr14-11.cpp.obj"
+  "CMakeFiles/Week_15_Sample_Programs.dir/FeetInches_Version_5/FeetInches.cpp.obj"
+  "CMakeFiles/Week_15_Sample_Programs.dir/FeetInches_Version_5/Pr14-14.cpp.obj"
+  "CMakeFiles/Week_15_Sample_Programs.dir/IntArray.cpp.obj"
+  "CMakeFiles/Week_15_Sample_Programs.dir/PassObjectDemo.cpp.obj"
+  "CMakeFiles/Week_15_Sample_Programs.dir/Pr14-1.cpp.obj"
+  "CMakeFiles/Week_15_Sample_Programs.dir/Pr14-12.cpp.obj"
+  "CMakeFiles/Week_15_Sample_Programs.dir/Pr14-13.cpp.obj"
+  "CMakeFiles/Week_15_Sample_Programs.dir/Pr14-15.cpp.obj"
+  "CMakeFiles/Week_15_Sample_Programs.dir/Pr14-16.cpp.obj"
+  "CMakeFiles/Week_15_Sample_Programs.dir/Pr14-5.cpp.obj"
+  "CMakeFiles/Week_15_Sample_Programs.dir/Rectangle.cpp.obj"
+  "CMakeFiles/Week_15_Sample_Programs.dir/StaticDemo.cpp.obj"
+  "CMakeFiles/Week_15_Sample_Programs.dir/StudentTestScores_Version_3/Pr14-6.cpp.obj"
+  "CMakeFiles/Week_15_Sample_Programs.dir/StudentTestScores_Version_4/Pr14-7.cpp.obj"
+  "CMakeFiles/Week_15_Sample_Programs.dir/Weird.cpp.obj"
+  "Week_15_Sample_Programs.exe"
+  "Week_15_Sample_Programs.exe.manifest"
+  "Week_15_Sample_Programs.pdb"
+  "libWeek_15_Sample_Programs.dll.a"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/Week_15_Sample_Programs.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

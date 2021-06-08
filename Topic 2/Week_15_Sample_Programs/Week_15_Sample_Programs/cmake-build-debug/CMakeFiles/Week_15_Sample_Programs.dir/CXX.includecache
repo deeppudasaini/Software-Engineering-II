@@ -1,0 +1,252 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/AssignObjectDemo.cpp
+iostream
+-
+
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/Budget Version 1/Budget.h
+
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/Budget Version 1/Pr14-2.cpp
+iostream
+-
+iomanip
+-
+Budget.h
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/Budget Version 1/Budget.h
+
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/Budget Version 2/Budget.cpp
+Budget.h
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/Budget Version 2/Budget.h
+
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/Budget Version 2/Budget.h
+
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/Budget Version 2/Pr14-3.cpp
+iostream
+-
+iomanip
+-
+Budget.h
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/Budget Version 2/Budget.h
+
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/Budget Version 3/Auxil.cpp
+Auxil.h
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/Budget Version 3/Auxil.h
+Budget.h
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/Budget Version 3/Budget.h
+
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/Budget Version 3/Auxil.h
+
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/Budget Version 3/Budget.cpp
+Budget.h
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/Budget Version 3/Budget.h
+
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/Budget Version 3/Budget.h
+Auxil.h
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/Budget Version 3/Auxil.h
+
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/Budget Version 3/Pr14-4.cpp
+iostream
+-
+
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/Course.h
+iostream
+-
+string
+-
+Instructor.h
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/Instructor.h
+TextBook.h
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/TextBook.h
+
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/FeetInches Version 1/FeetInches.cpp
+cstdlib
+-
+FeetInches.h
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/FeetInches Version 1/FeetInches.h
+
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/FeetInches Version 1/FeetInches.h
+
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/FeetInches Version 1/Pr14-8.cpp
+iostream
+-
+FeetInches.h
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/FeetInches Version 1/FeetInches.h
+
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/FeetInches Version 2/FeetInches.cpp
+cstdlib
+-
+FeetInches.h
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/FeetInches Version 2/FeetInches.h
+
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/FeetInches Version 2/FeetInches.h
+
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/FeetInches Version 2/Pr14-9.cpp
+iostream
+-
+FeetInches.h
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/FeetInches Version 2/FeetInches.h
+
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/FeetInches Version 3/FeetInches.cpp
+cstdlib
+-
+FeetInches.h
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/FeetInches Version 3/FeetInches.h
+
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/FeetInches Version 3/FeetInches.h
+
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/FeetInches Version 3/Pr14-10.cpp
+iostream
+-
+FeetInches.h
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/FeetInches Version 3/FeetInches.h
+
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/FeetInches Version 4/FeetInches.cpp
+cstdlib
+-
+FeetInches.h
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/FeetInches Version 4/FeetInches.h
+
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/FeetInches Version 4/FeetInches.h
+iostream
+-
+
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/FeetInches Version 4/Pr14-11.cpp
+iostream
+-
+FeetInches.h
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/FeetInches Version 4/FeetInches.h
+
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/FeetInches Version 5/FeetInches.cpp
+cstdlib
+-
+FeetInches.h
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/FeetInches Version 5/FeetInches.h
+
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/FeetInches Version 5/FeetInches.h
+iostream
+-
+
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/FeetInches Version 5/Pr14-14.cpp
+iostream
+-
+FeetInches.h
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/FeetInches Version 5/FeetInches.h
+
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/Instructor.h
+iostream
+-
+string
+-
+
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/IntArray.cpp
+iostream
+-
+cstdlib
+-
+IntArray.h
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/IntArray.h
+
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/IntArray.h
+
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/PassObjectDemo.cpp
+iostream
+-
+
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/Pr14-1.cpp
+iostream
+-
+Tree.h
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/Tree.h
+
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/Pr14-12.cpp
+iostream
+-
+IntArray.h
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/IntArray.h
+
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/Pr14-13.cpp
+iostream
+-
+IntArray.h
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/IntArray.h
+
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/Pr14-15.cpp
+Course.h
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/Course.h
+
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/Pr14-16.cpp
+iostream
+-
+iomanip
+-
+Stock.h
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/Stock.h
+StockPurchase.h
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/StockPurchase.h
+
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/Pr14-5.cpp
+iostream
+-
+Rectangle.h
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/Rectangle.h
+
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/Rectangle.cpp
+Rectangle.h
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/Rectangle.h
+iostream
+-
+cstdlib
+-
+
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/Rectangle.h
+
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/StaticDemo.cpp
+iostream
+-
+
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/Stock.h
+string
+-
+
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/StockPurchase.h
+Stock.h
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/Stock.h
+
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/StudentTestScores Version 3/Pr14-6.cpp
+iostream
+-
+StudentTestScores.h
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/StudentTestScores Version 3/StudentTestScores.h
+
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/StudentTestScores Version 3/StudentTestScores.h
+string
+-
+
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/StudentTestScores Version 4/Pr14-7.cpp
+iostream
+-
+StudentTestScores.h
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/StudentTestScores Version 4/StudentTestScores.h
+
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/StudentTestScores Version 4/StudentTestScores.h
+string
+-
+
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/TextBook.h
+iostream
+-
+string
+-
+
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/Tree.h
+
+C:/Users/deepp/Desktop/C Practice/NAMI-YEAR-II-TERM-II-SOFTWARE_ENGINEERING/Topic 2/Week_15_Sample_Programs/Week_15_Sample_Programs/Weird.cpp
+iostream
+-
+
